@@ -28,7 +28,7 @@ replace BAC_dummy = 0 if bac1 < 0.08
 <<dd_do>>
 histogram bac1, width(0.001) fcolor(yellow%40) xline(0.08, lc(red))
 <</dd_do>>
-![](D:\UT-Austin\ECO395M_Causal Inference\RDD\Q4-Graph.gph)
+![](https://github.com/EvelynCheng-Github/RDD/blob/main/Q4_Graph.jpg)
 I didn't see manipulations in these data. I find same results with Hansen and there are no evidence for sorting on the running variable.
 
 5. 
