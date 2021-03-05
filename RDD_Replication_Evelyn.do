@@ -37,7 +37,7 @@ histogram bac1, width(0.001) fcolor(yellow%40) xline(0.08, lc(red))
 
 <<dd_graph>>
 
-BAC histogram I draw presented that there are no obivous changes around 0.08. I didn't see manipulations in these data. I find same results with Hansen and there are no evidence for sorting on the running variable.
+BAC histogram I draw presented that there are no obvious changes around 0.08. I didn't see manipulations in these data. I find same results with Hansen and there are no evidence for sorting on the running variable.
 
 5. Recreate Table 2 Panel A
 
